@@ -1,2 +1,2 @@
 # Reactcalculator
-Created with CodeSandbox
+Created calculator basic using React.
